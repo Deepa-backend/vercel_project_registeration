@@ -2,7 +2,8 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <form action="https://registeration-backend-vercel-git-main-deepas-projects-0a652578.vercel.app/" method="POST">
+    <form action="https://registeration-backend-vercel-git-main-deepas-projects-0a652578.vercel.app/api/register" method="POST">
+
 
       <h2>Register</h2>
 
